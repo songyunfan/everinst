@@ -6,4 +6,6 @@
 
 ## Kubernetes setup
 
+## Payment Channel through uRaiden
+
 
