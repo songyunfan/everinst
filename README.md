@@ -4,7 +4,7 @@
 
 ## Datacenter Interconnection
 
-## Kubernetes setup
+## Container Orchestration
 
 ## Payment Channel through uRaiden
 
