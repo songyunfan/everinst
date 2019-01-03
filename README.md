@@ -6,6 +6,6 @@
 
 ## Container Orchestration
 
-## Payment Channel through uRaiden
+## Payment Channel through blockchain
 
 
