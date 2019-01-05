@@ -6,6 +6,6 @@
 
 ## Container Orchestration
 
-## Payment Channel through blockchain
+## Payment Channel through blockchain (tendermint)
 
 
