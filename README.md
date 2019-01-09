@@ -8,4 +8,6 @@
 
 ## Payment Channel through blockchain (tendermint)
 
+## Dedicated vs Marketplace
+
 
