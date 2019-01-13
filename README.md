@@ -8,6 +8,6 @@
 
 ## Payment Channel through blockchain (tendermint)
 
-## Dedicated vs Marketplace
+## Dedicated (fixed price) vs Marketplace (dynamic price)
 
 
