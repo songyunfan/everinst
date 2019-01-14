@@ -8,6 +8,8 @@
 
 ## Payment Channel through blockchain (tendermint)
 
+## Metering Data
+
 ## Dedicated (fixed price) vs Marketplace (dynamic price)
 
 
