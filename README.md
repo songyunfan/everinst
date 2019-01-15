@@ -1,12 +1,10 @@
-# Unstoppable Cloud
-
-## PoC for connecting datacenters and edge devices
-
-## Datacenter Interconnection
+# Distributed Cloud Network
 
 ## Container Orchestration
+1. Native management system
+2. Outside vendors
 
-## Payment Channel through blockchain (tendermint)
+## Payment Channel through Tendermint
 
 ## Metering Data
 
