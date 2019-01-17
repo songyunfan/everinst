@@ -12,4 +12,6 @@
 
 ## Dedicated (fixed price) vs Marketplace (dynamic price)
 
+## Console & control center
+
 
