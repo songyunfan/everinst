@@ -11,9 +11,14 @@ Full Product Vision
 1. Network Status
 1. Marketplace
 1. App Store
-1. Peers
+1. Switch to Host View
 
 ### Dashboard
+1. Current token balance
+1. Current runnning instances
+1. Health check
+1. Ads slot
+1. Daily news
 
 
 ### Environment
