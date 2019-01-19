@@ -36,6 +36,14 @@ Full Product Vision
 1. Search bar
 1. List view of all the resources, with CPU, Memory, Disk, Price, Region, ISP and reputation
 
+## 2. Web/Desktop User Interface (Host View)
+
+### Menu
+1. Dashboard
+1. Network Status
+1. Billing
+1. Switch to User View
+
 ## Container Orchestration
 1. Native management system
 2. Outside vendors
