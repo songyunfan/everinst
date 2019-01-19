@@ -36,6 +36,17 @@ Full Product Vision
 1. Search bar
 1. List view of all the resources, with CPU, Memory, Disk, Price, Region, ISP and reputation
 
+### App Store
+1. Allow users to select applications/frameworks to be installed on their clusters
+
+### Billing
+1. Visualization of the blockchain
+1. Show metering details by projects
+1. Transaction history in list view
+1. Wallet to purchase/sell tokens
+
+### User Management
+
 ## 2. Web/Desktop User Interface (Host View)
 
 ### Menu
@@ -46,9 +57,7 @@ Full Product Vision
 
 ## Container Orchestration
 1. Native management system
-2. Outside vendors
-
-## Payment Settlement
+1. Outside vendors
 
 ## Metering Data
 
