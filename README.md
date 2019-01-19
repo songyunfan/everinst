@@ -3,7 +3,7 @@ Full Product Vision
 
 -----------------------------
 
-## 1. Web/Desktop User Interface
+## 1. Web/Desktop User Interface (User View)
 
 ### Menu
 1. Dashboard
@@ -11,6 +11,7 @@ Full Product Vision
 1. Network Status
 1. Marketplace
 1. App Store
+1. Billing
 1. Switch to Host View
 
 ### Dashboard
@@ -27,15 +28,19 @@ Full Product Vision
 1. Remove an environment
 
 ### Network Status
-1. 
+1. Earth view of all the available resources
+
+### Marketplace
+1. Filtering: menu to choose deployment requirements (CPU, Memory, Disk, Price, Region, ISP)
+1. Ranking based on different requirements
+1. Search bar
+1. List view of all the resources, with CPU, Memory, Disk, Price, Region, ISP and reputation
 
 ## Container Orchestration
 1. Native management system
 2. Outside vendors
 
 ## Payment Settlement
-
-## Kubernetes
 
 ## Metering Data
 
