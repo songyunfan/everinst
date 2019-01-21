@@ -26,6 +26,7 @@ Full Product Vision
 1. Create a new environment
 1. Table view of the environment name, health check, # of nodes, name and # of containers
 1. Remove an environment
+1. Container Orchestration
 
 ### Network Status
 1. Earth view of all the available resources
@@ -56,6 +57,9 @@ Full Product Vision
 1. Switch to User View
 
 ### Dashboard
+1. Earning
+1. Current running servers
+1. Run/stop 
 
 ### Network Status
 
@@ -63,16 +67,6 @@ Full Product Vision
 
 ### Switch to User View
 
-## Container Orchestration
-1. Native management system
-1. Outside vendors
-
-## Metering Data
-
-## Deployment Fullfillment
-
 ## Dedicated (fixed price) vs Marketplace (dynamic price)
-
-## Console & control center
 
 
