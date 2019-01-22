@@ -1,5 +1,5 @@
 # Distributed Cloud Network 
-Full Product Vision
+Full Web Interface Vision
 
 -----------------------------
 
