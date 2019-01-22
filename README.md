@@ -12,11 +12,13 @@ Full Web Interface Vision
 1. Marketplace
 1. App Store
 1. Billing
+----------
+1. CLI
 1. Switch to Host View
 
 ### Dashboard
 1. Current token balance
-1. Current runnning instances
+1. Current runnning instances (list view or map view)
 1. Health check
 1. Ads slot
 1. Daily news
