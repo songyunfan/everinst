@@ -7,7 +7,7 @@ Full Web Interface Vision
 
 ### Menu
 1. Dashboard
-1. Environment
+1. Tasks
 1. Network Status
 1. Marketplace
 1. App Store
@@ -15,6 +15,7 @@ Full Web Interface Vision
 ----------
 1. CLI
 1. Switch to Host View
+1. Log Out
 
 ### Dashboard
 1. Current token balance
@@ -24,7 +25,7 @@ Full Web Interface Vision
 1. Daily news
 
 
-### Environment
+### Tasks
 1. Create a new environment
 1. Table view of the environment name, health check, # of nodes, name and # of containers
 1. Remove an environment
