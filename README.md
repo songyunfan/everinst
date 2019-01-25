@@ -67,9 +67,3 @@ Full Web Interface Vision
 ### Network Status
 
 ### Billing
-
-### Switch to User View
-
-## Dedicated (fixed price) vs Marketplace (dynamic price)
-
-
