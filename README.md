@@ -1,6 +1,4 @@
-# Distributed Cloud Network 
-Full Web Interface Vision
-
+# Distributed Cloud Network Interface
 -----------------------------
 
 ## 1. Web/Desktop User Interface (User View)
@@ -65,4 +63,4 @@ Full Web Interface Vision
 
 ### Network Status
 
-### Billing
+### Billing/Payment/Wallet
