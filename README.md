@@ -7,30 +7,28 @@ Full Web Interface Vision
 
 ### Menu
 1. Dashboard
-1. Tasks
+1. Tasks/Environments
 1. Network Status
 1. Marketplace
 1. App Store
-1. Billing
+1. Billing/Payment/Wallet
 ----------
 1. CLI
 1. Switch to Host View
 1. Log Out
 
 ### Dashboard
-1. Current token balance
-1. Current runnning instances (# of environments, # of clusters)
-1. Health check
+1. Current token balance (in USD and ANKR), -> See Transactions
+1. Current runnning instances (# of environments, # of clusters, Health Check), -> Tasks
 1. Ads slot
 1. Top 10 Cloud Providers 
 1. Daily news
 
 
-### Tasks
+### Tasks/Environments
 1. Create a new environment
 1. Table view of the environment name, health check, # of nodes, name and # of containers
 1. Remove an environment
-1. Container Orchestration
 
 ### Network Status
 1. Earth view of all the available resources
