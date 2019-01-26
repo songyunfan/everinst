@@ -19,9 +19,10 @@ Full Web Interface Vision
 
 ### Dashboard
 1. Current token balance
-1. Current runnning instances (list view or map view)
+1. Current runnning instances (# of environments, # of clusters)
 1. Health check
 1. Ads slot
+1. Top 10 Cloud Providers 
 1. Daily news
 
 
