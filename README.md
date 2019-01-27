@@ -1,4 +1,4 @@
-# Distributed Cloud Network Interface
+# DCCN
 -----------------------------
 
 ## 1. Web/Desktop User Interface (User View)
@@ -9,8 +9,8 @@
 1. Network Status
 1. Marketplace
 1. App Store
-1. Billing/Payment/Wallet
-----------
+1. Billing/Payment/Wallet/Ledger
+
 1. CLI
 1. Switch to Host View
 1. Log Out
@@ -39,14 +39,17 @@
 
 ### App Store
 1. Allow users to select applications/frameworks to be installed on their clusters
+1. Search bar
 
-### Billing
+### Billing/Payment/Wallet/Ledger
 1. Visualization of the blockchain
 1. Show metering details by projects
 1. Transaction history in list view
 1. Wallet to purchase/sell tokens
 
 ### User Management
+
+----------
 
 ## 2. Web/Desktop User Interface (Host View)
 
