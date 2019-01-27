@@ -1,4 +1,4 @@
-# DCCN
+# DCCN-UI
 -----------------------------
 
 ## 1. Web/Desktop User Interface (User View)
@@ -24,18 +24,26 @@
 
 
 ### Tasks/Environments
+1. If no enviornment has been created, a button to create
 1. Create a new environment
 1. Table view of the environment name, health check, # of nodes, name and # of containers
 1. Remove an environment
+1. Scale your clusters, add more containers
+1. Applications running on the environments
 
-### Network Status
-1. Earth view of all the available resources
 
 ### Marketplace
+#### List View
 1. Filtering: menu to choose deployment requirements (CPU, Memory, Disk, Price, Region, ISP)
 1. Ranking based on different requirements
 1. Search bar
 1. List view of all the resources, with CPU, Memory, Disk, Price, Region, ISP and reputation
+
+#### Map View
+1. Earth view of all the available resources
+1. Total users
+1. Total available hubs/daemons
+1. 
 
 ### App Store
 1. Allow users to select applications/frameworks to be installed on their clusters
