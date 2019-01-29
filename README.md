@@ -79,9 +79,15 @@ Some ideas:
 1. Switch to User View
 
 ### Dashboard
-1. Earning
 1. Current running servers
-1. Run/stop 
+1. User profile and current token balance (in ANKR and USD), -> See Transactions/Billing
+1. Earning this month
+1. ANKR Real Time price, -> Purchase ANKR
+1. Current runnning instances (# of environments, # of clusters, Health Check), -> Check your Tasks
+1. Ankr Network Status (Online: green light blinking, # of users, # hosts, # environments created)
+1. Resource Allocation % in CPU, Memory, Disk, I/O -> Check your Tasks
+1. Top 10 Cloud Providers -> Explore Marketplace
+1. Ads slot -> Hosts
 
 ### Network Status
 
