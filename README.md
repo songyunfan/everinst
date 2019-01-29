@@ -66,10 +66,10 @@
 1. Key fingerprint
 1. Connect to your own Cloud accounts
 ----------
-Some ideas: 
+Some more ideas: 
 1. Invite people to join Ankr
 1. Chat bot
-
+----------
 ## 2. Web App Host View
 
 ### Menu
