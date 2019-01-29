@@ -1,7 +1,7 @@
 # DCCN-UI
 -----------------------------
 
-## 1. Web/Desktop User Interface (User View)
+## 1. Web App Client View
 
 ### Navigation
 1. Dashboard
@@ -70,7 +70,7 @@ Some ideas:
 1. Invite people to join Ankr
 1. Chat bot
 
-## 2. Web/Desktop User Interface (Host View)
+## 2. Web App Host View
 
 ### Menu
 1. Dashboard
