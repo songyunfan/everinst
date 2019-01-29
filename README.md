@@ -16,11 +16,11 @@
 1. Log Out
 
 ### Dashboard
-1. Current token balance (in USD and ANKR), -> See Transactions
-1. Current runnning instances (# of environments, # of clusters, Health Check), -> Tasks
-1. Ads slot
-1. Top 10 Cloud Providers 
-1. Daily news
+1. User profile and current token balance (in USD and ANKR), -> See Transactions
+1. Current runnning instances (# of environments, # of clusters, Health Check), -> Check your Tasks
+1. Top 10 Cloud Providers -> Explore Marketplace
+1. Ads slot -> Hosts
+1. Daily news -> External website
 
 
 ### Tasks/Environments
