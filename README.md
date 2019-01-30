@@ -74,9 +74,12 @@ Some more ideas:
 
 ### Menu
 1. Dashboard
-1. Network Status
-1. Billing
+1. Monitering
+1. Billing/Payment/Wallet
+----------
+1. CLI
 1. Switch to User View
+1. Log Out
 
 ### Dashboard
 1. Current running servers
@@ -89,6 +92,6 @@ Some more ideas:
 1. Top 10 Cloud Providers -> Explore Marketplace
 1. Ads slot -> Hosts
 
-### Network Status
+### Monitering 
 
 ### Billing/Payment/Wallet
