@@ -70,6 +70,9 @@ Some more ideas:
 1. Invite people to join Ankr
 1. Chat bot
 ----------
+----------
+----------
+----------
 ## 2. Web App Host View
 
 ### Menu
