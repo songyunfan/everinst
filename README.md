@@ -1,4 +1,4 @@
-# DCCN-UI
+# DCCN-UI: Everinst
 -----------------------------
 
 ## 1. Web App Client View
