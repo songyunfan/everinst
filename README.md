@@ -1,4 +1,4 @@
-# DCCN-UI: Everinst
+# Ankr-UI: Everinst
 -----------------------------
 
 ## 1. Web App Client View
