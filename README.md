@@ -19,6 +19,7 @@
 ### Upper Bar
 1. Search Bar
 1. ANKR Balance
+1. Messages
 1. Notification (Weekly Savings from AWS)
 1. Night Mode Switch
 -----------
