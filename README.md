@@ -98,4 +98,4 @@ Some more ideas:
 
 ### Monitering 
 
-### Billing/Payment/Wallet
+### Billing/Payment
