@@ -1,4 +1,4 @@
-# Ankr-UI: Everinst
+# Ankr-UI
 -----------------------------
 
 ## 1. Web App Client View
