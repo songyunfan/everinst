@@ -1,6 +1,6 @@
 -----------------------------
 
-## 1. Web App Client View
+## 1. Client View
 
 ### Navigation
 1. Dashboard
@@ -73,7 +73,7 @@ Some more ideas:
 ----------
 ----------
 ----------
-## 2. Web App Host View
+## 2. Host View
 
 ### Menu
 1. Dashboard
