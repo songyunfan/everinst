@@ -30,7 +30,7 @@
 1. Top 10 Cloud Providers -> Explore Marketplace
 1. Ads slot -> Hosts
 -----------
-### Tasks/Environments
+### Tasks
 1. If no enviornment has been created, a button to create
 1. Create a new environment
 1. Table view of the environment name, health check, # of nodes, name and # of containers
