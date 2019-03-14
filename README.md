@@ -1,4 +1,4 @@
-# DCCN-UI
+# Everinst
 
 ## 1. Client View
 
