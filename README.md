@@ -98,3 +98,5 @@ Some more ideas:
 ### Monitering 
 
 ## Wallet 
+### Balance
+### Transaction
