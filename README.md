@@ -1,5 +1,3 @@
-# Everinst
-
 ## 1. Client View
 
 ### Navigation
