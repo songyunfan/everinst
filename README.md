@@ -93,8 +93,3 @@ Some more ideas:
 1. Top 10 Cloud Providers -> Explore Marketplace
 1. Ads slot -> Hosts
 
-### Monitering 
-
-## Wallet 
-### Balance
-### Transaction
