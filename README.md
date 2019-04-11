@@ -1,5 +1,4 @@
 
-
 ## 1. Client View
 
 ### Navigation
